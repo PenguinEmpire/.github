@@ -4,7 +4,7 @@
 
 * **FRC Team** 2551
 * **Website** [penguinempirerobotics.org](https://penguinempirerobotics.org/)
-* **Programming Website** [hamzalovescoding.github.io/penguin-empire-code-academy](https://hamzalovescoding.github.io/penguin-empire-code-academy/)
-* **School** San Marin High School, Novato CA, USA
+* **Programming Onboarding** [hamzalovescoding.github.io/penguin-empire-code-academy](https://hamzalovescoding.github.io/penguin-empire-code-academy/)
+* **School** Novato High School, California
 
 <!-- damien: yes this is bare-bones but I don't have much time.  Maybe in the off-season? -->
